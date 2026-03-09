@@ -1,0 +1,2 @@
+# InterfaceCore
+Repository for interfaces.
